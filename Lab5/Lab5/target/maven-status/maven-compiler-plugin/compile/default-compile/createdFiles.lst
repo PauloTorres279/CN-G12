@@ -1,0 +1,3 @@
+forumpubsub\PubSubForumClient.class
+forumpubsub\ForumMessage.class
+forumpubsub\MessageReceiveHandler.class
